@@ -32,5 +32,6 @@ func main() {
 			zipCode: 9094, //special ,
 		}, //, specil when there embaded structs
 	}
+	//Discriptive pritning as defined above
 	fmt.Printf("%v", jim)
 }
